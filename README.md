@@ -7,6 +7,5 @@
 - ⚡ Fun fact: *Merging into your main brainch is* **always** *a good idea, you don't need approval from others ;)*
 
 <!---
-policebunny/policebunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+did you know, you can like hide stuff in the commentary as it is not visible to other people per se but you can still access it
 --->
